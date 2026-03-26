@@ -1,0 +1,33 @@
+Consider the following:
+
+1. Drag and drop three router PT network devices into the virtual sandbox.
+
+2. Drag and drop three 2960 switches into the same sandbox.
+
+3. Drag and drop three end device personal computers into the sandbox.
+
+4. Connect the correct network cables between each of the network devices.
+
+5. Assign network IDs and subnet masks to each of your networks. Document this in the sandbox.
+
+6. Name each of your routers, switches and PCs for each one of the three areas they reside in. Cortland, Bryden, Ithaca. Do this in your sandbox and as part of your device configurations.
+
+7. Document your design methodology for port assignments including switch and router ports.
+
+8. Assign suitable IP addresses and subnet masks within your network assignments to each of your PCs.
+
+9. Assign suitable default gateway IP addresses to each of your PCs.
+
+10. Configure IP addresses to all your used router interfaces.
+
+11. Verify you have Layer-3 network continuity  between each PC and the default gateway router.
+
+12. Create static routes which will allow for inter-network traffic.
+
+13. Run a show iproute command from privileged exec mode.
+
+14. Do you see five network routes?
+
+15. Ping PC1 in Cortland to PC3 in Ithaca.
+
+16. Save your file as <your_name>.packet.
